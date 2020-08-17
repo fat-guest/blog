@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://fat-guest.github.io/en/</loc>
+    <lastmod>2020-08-18T08:13:29+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://fat-guest.github.io/ko/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fat-guest.github.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://fat-guest.github.io/en/archive/</loc>
+    <lastmod>2020-08-18T08:13:29+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fat-guest.github.io/en/about/</loc>
+    <lastmod>2020-08-18T08:08:10+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fat-guest.github.io/en/posts/_empty/</loc>
+    <lastmod>2020-08-14T08:46:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fat-guest.github.io/en/posts/</loc>
+    <lastmod>2020-08-14T08:46:11+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fat-guest.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -41,20 +76,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://fat-guest.github.io/en/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://fat-guest.github.io/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://fat-guest.github.io/ko/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fat-guest.github.io/en/"
                 />
   </url>
   
