@@ -1,5 +1,5 @@
 baseURL = "http://example.org/" # The URL of your site.
-title = "理系女子の美容整形体験記" # Title of your site
+title = "理系女子の美容体験記" # Title of your site
 theme = "zzo" # Name of Zzo theme folder in `themes/`.
 
 defaultContentLanguage = "en" # Default language to use (if you setup multilingual)
